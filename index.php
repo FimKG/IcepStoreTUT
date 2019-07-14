@@ -14,9 +14,9 @@
 <nav>
   <div class="container"> 
     
+    <?php include_once("Tp_Header.php"); ?>
     
-    
-    <!-- /.navbar-collapse <!--<?php /*include_once("Tp_Header.php");*/ ?>--> 
+    <!-- /.navbar-collapse --> 
   </div>
   <!-- /.container-fluid --> 
 </nav>
@@ -83,7 +83,7 @@
         <div class="caption">
           <h3>Product</h3>
           <p>Hp Laptop core intel i5</p>
-          <p><a href="#" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</a></p>
+          <p><a href="cart.php" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</a></p>
         </div>
       </div>
     </div>
