@@ -175,11 +175,11 @@
 		updateCart()
 	}
 			function submitCart() {
+				console.table(cart)
 			$.ajax( {
 				url: 'order.php',
 				type: 'post',
-				dataType: "json",
-				data: cart,
+				data: JSON.stringify(cart),
 				processData: false,
 				contentType: false,
 				success: function ( data, status ) {
