@@ -83,6 +83,7 @@
         <div class="caption">
           <h3>Product</h3>
           <p>Hp Laptop core intel i5</p>
+			<p><a></a><input style="text-align: center" type="number" id="qty" name="qty" placeholder="1" min="0"></a></p>
           <p><a href="cart.php" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</a></p>
         </div>
       </div>
@@ -92,6 +93,7 @@
         <div class="caption">
           <h3>Product</h3>
           <p>Dell Laptop core intel i5.</p>
+			<p><a></a><input style="text-align: center" type="number" id="qty" name="qty" placeholder="1" min="0"></a></p>
           <p><a href="#" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</a> </p>
         </div>
       </div>
@@ -100,7 +102,7 @@
       <div class="thumbnail"> <img src="images/HP Desktop.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <h3>Product</h3>
-          <p>HP Desktop I5-8400  4GB Drive  1TB Drive  Win 10 Pro Desktop</p>
+			<p><a></a><input style="text-align: center" type="number" id="qty" name="qty" placeholder="1" min="0"></a></p>
           <p><a href="#" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> Add to Cart</a> </p>
         </div>
       </div>
